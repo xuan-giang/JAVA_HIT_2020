@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="114c5f3e-ce24-4503-aa07-993d343f3913" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/out/production/BTVN_Buoi1/com/company/Bai1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/out/production/BTVN_Buoi1/com/company/Bai2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/src/com/company/Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/src/com/company/Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/BTVN_Buoi1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/Buoi1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/Buổi 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/out/production/Buoi1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/BTVN.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/out/production/BTVN/Bai1/bai1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/out/production/BTVN/Bai2/bai2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/out/production/BTVN/Bai3/bai3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/out/production/BTVN/Bai4/bai4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/out/production/BTVN/Bai5/bai5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/out/production/BTVN/Bai6/bai6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/src/Bai1/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/src/Bai2/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/src/Bai3/bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/src/Bai4/bai4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/src/Bai5/bai5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/BTVN/src/Bai6/bai6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/Buổi 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/ly thuyet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/out/production/ly thuyet/com/company/Bai2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/out/production/ly thuyet/com/company/HamJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/out/production/ly thuyet/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/src/com/company/Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/src/com/company/HamJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/ly thuyet/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/out/production/untitled104/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/BTVN.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai1/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai2/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai2/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai3/HangHoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai3/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai4/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai4/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai5/Guns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/out/production/BTVN/Bai5/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai1/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai2/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai3/HangHoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai3/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai4/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai4/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai5/Guns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/BTVN/src/Bai5/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi4/Bai1/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi4/Bai1/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi4/Bai1/SinhVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi4/Bai2/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi4/Bai2/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai1/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai1/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai1/SinhVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai2/RunMain.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipIVej9laqHKHRi0TfZiO4KEV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114c5f3e-ce24-4503-aa07-993d343f3913" name="Default Changelist" comment="" />
+      <created>1602598133369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602598133369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
