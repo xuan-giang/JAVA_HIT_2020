@@ -1,0 +1,2 @@
+Xóa bộ nhớ đệm khi bị lỗi nhập số -> nhập chữ
+scanner.nextLine();
