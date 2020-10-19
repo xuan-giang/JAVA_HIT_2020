@@ -21,9 +21,7 @@ public class KYSU extends PERSON{
     public void Xuat(){
         super.Xuat();
         System.out.println("Ngành học :"+Nganh);
-
         System.out.println("Năm tốt nghiệp: "+namTN);
-
     }
 
     public int getNamTN() {

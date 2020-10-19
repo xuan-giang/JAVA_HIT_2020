@@ -18,9 +18,7 @@ public class PERSON {
     }
     public void Xuat(){
         System.out.println("Họ tên: "+hoTen);
-
         System.out.println("Ngày sinh: "+ngaySinh);
-
         System.out.println("Quê quán: "+queQuan);
     }
 }

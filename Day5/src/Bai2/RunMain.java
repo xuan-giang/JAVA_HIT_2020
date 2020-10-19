@@ -16,11 +16,11 @@ public class RunMain {
         }
         System.out.println("=============================================");
         System.out.println("Các thông tin vừa nhập: ");
-        for(int i = 0; i < n; i++){
-            ks[i].Xuat();
+        for(KYSU ks1 : ks){
+            System.out.println(ks1);
         }
         System.out.println("=============================================");
-        System.out.println("Thông tin các sinh viên tốt nghiệp gần nhất: ");
+        System.out.println("Thông tin các sinh viên tốt nghiệp gần nhất là : ");
         int max = ks[0].getNamTN();
         for(int i = 0; i < n; i++){
             if(ks[i].getNamTN()> max){
