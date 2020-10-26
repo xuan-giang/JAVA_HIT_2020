@@ -1,2 +1,7 @@
 Xóa bộ nhớ đệm khi bị lỗi nhập số -> nhập chữ
 scanner.nextLine();
+
+import <ten_package>.*; // sử dụng tất cả class trong package
+
+Calendar now = Calendar.getInstance();
+        System.out.println(now.get(Calendar.YEAR)); // Get year now
