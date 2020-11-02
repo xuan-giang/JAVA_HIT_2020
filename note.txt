@@ -5,3 +5,9 @@ import <ten_package>.*; // sử dụng tất cả class trong package
 
 Calendar now = Calendar.getInstance();
         System.out.println(now.get(Calendar.YEAR)); // Get year now
+---------------------------------
+note char
+Character.isDigit.(str.charAt(i))
+
+Integer.parseInt(String.valueOf(str.charAt(i)));
+---------------------
