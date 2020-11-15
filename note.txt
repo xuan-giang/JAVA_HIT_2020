@@ -11,3 +11,4 @@ Character.isDigit.(str.charAt(i))
 
 Integer.parseInt(String.valueOf(str.charAt(i)));
 ---------------------
+Arrays.stream

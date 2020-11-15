@@ -16,32 +16,10 @@ public class RunMain {
             select = sc.nextInt();
             switch (select){
                 case 1:
-                    News news = new News();
-                    System.out.print("Enter your id: ");
-                    news.setId(sc.nextInt());
-                    sc.nextLine();
-                    System.out.print("Enter your title: ");
-                    news.setTitle(sc.nextLine());
-                    System.out.print("Enter publish date: ");
-                    news.setPublishDate(sc.nextLine());
-                    System.out.print("Enter author: ");
-                    news.setAuthor(sc.nextLine());
-                    System.out.print("Enter content: ");
-                    news.setContent(sc.nextLine());
-                    System.out.println("Enter 3 rates: ");
-                    System.out.print("First rate: ");
-                    news.rateList[0] = sc.nextInt();
-                    System.out.print("Second rate: ");
-                    news.rateList[1] = sc.nextInt();
-                    System.out.print("Three rate: ");
-                    news.rateList[2] = sc.nextInt();
-                    list.add(news);
+                    insertNews(list);
                     break;
                 case 2:
-                    for(int i = 0; i < list.size(); i++){
-                        System.out.println("\nNews " + (i + 1));
-                        list.get(i).Display();
-                    }
+                    viewListNews(list);
                     break;
                 case 3:
                     for(int i = 0; i < list.size(); i++){
@@ -62,5 +40,33 @@ public class RunMain {
         System.out.println("3. Average rate");
         System.out.println("4. Exit");
         System.out.print("Your select: ");
+    }
+    public static void insertNews(List<News> list){
+        News news = new News();
+        System.out.print("Enter your id: ");
+        news.setId(sc.nextInt());
+        sc.nextLine();
+        System.out.print("Enter your title: ");
+        news.setTitle(sc.nextLine());
+        System.out.print("Enter publish date: ");
+        news.setPublishDate(sc.nextLine());
+        System.out.print("Enter author: ");
+        news.setAuthor(sc.nextLine());
+        System.out.print("Enter content: ");
+        news.setContent(sc.nextLine());
+        System.out.println("Enter 3 rates: ");
+        System.out.print("First rate: ");
+        news.rateList[0] = sc.nextInt();
+        System.out.print("Second rate: ");
+        news.rateList[1] = sc.nextInt();
+        System.out.print("Three rate: ");
+        news.rateList[2] = sc.nextInt();
+        list.add(news);
+    }
+    public static void viewListNews(List<News> list){
+        for(int i = 0; i < list.size(); i++){
+            System.out.println("\nNews " + (i + 1));
+            list.get(i).Display();
+        }
     }
 }
